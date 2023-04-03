@@ -1,6 +1,6 @@
 {
   "name": "BGUM2 Test Collection",
-  "symbol": "BGTC",
+  "symbol": "BGTC2",
   "description": "for test purpose",
   "image": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
   "seller_fee_basis_points": 500,
