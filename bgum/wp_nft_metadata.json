@@ -1,12 +1,12 @@
 {
-  "name": "Hehe Tablet Wallpaper",
-  "symbol": "HEHERWDS",
+  "name": "Hehe Male Tamer Tablet",
+  "symbol": "HERWD",
   "description": "A Wallpaper for your PC, Tablet and Smartphone, part of holder rewards program.",
   "seller_fee_basis_points": 690,
   "image": "https://shdw-drive.genesysgo.net/CbWGfYfTJvBfBXCsQPj3Hvvxvfgm3bVkxMSBHJGgdQp1/Male-Tablet-Potrait-1536x2048.png",
   "collection": {
-    "name": "HEHERWDS",
-    "family": "HEHERWDS"
+    "name": "HERWD",
+    "family": "HERWD"
   },
   "attributes": [
     {
