@@ -1,0 +1,53 @@
+{
+  "name": "Hehe Tablet Wallpaper in Collection",
+  "symbol": "HEHEREWARDS",
+  "description": "A Wallpaper for your PC, Tablet and Smartphone, part of holder rewards program.",
+  "seller_fee_basis_points": 690,
+  "image": "https://shdw-drive.genesysgo.net/CbWGfYfTJvBfBXCsQPj3Hvvxvfgm3bVkxMSBHJGgdQp1/Male-Tablet-Potrait-1536x2048.png",
+  "collection": {
+    "name": "HEHEREWARDS",
+    "family": "HEHEREWARDS"
+  },
+  "attributes": [
+    {
+      "trait_type": "Item Name",
+      "value": "Male Tamer Tablet"
+    },
+    {
+      "trait_type": "Format",
+      "value": "Tablet"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1536 x 2048"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Nokiamon"
+    },
+    {
+      "trait_type": "Launch Date",
+      "value": "06 April 2023"
+    },
+    {
+      "trait_type": "Program",
+      "value": "Holder Rewards"
+    }
+  ],
+  "external_url": "",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://shdw-drive.genesysgo.net/CbWGfYfTJvBfBXCsQPj3Hvvxvfgm3bVkxMSBHJGgdQp1/Male-Tablet-Potrait-1536x2048.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+        "share": 100
+      }
+    ]
+  }
+}
