@@ -1,9 +1,8 @@
 {
   "name": "Hehe Wallpaper Collection",
   "symbol": "HERWDS1",
-  "description": "A Wallpaper for your PC, Tablet and Smartphone, part of holder rewards program.",
-  "image": "https://shdw-drive.genesysgo.net/CbWGfYfTJvBfBXCsQPj3Hvvxvfgm3bVkxMSBHJGgdQp1/nokirewards-cover.png",
-  "external_url": "https://nokiamon.com",
+  "description": "testing only",
+  "image": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
   "seller_fee_basis_points": 500,
   "properties": {
     "creators": [
