@@ -1,0 +1,22 @@
+{
+  "name": "Example NFT 1",
+  "symbol": "SOLEN",
+  "description": "for example only",
+  "image": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
+  "seller_fee_basis_points": 500,
+  "external_url": "",
+  "background_color": "1E1E1E",
+  "properties": {
+    "collection": {
+      "name": "SOLEN",
+      "family": "SOLEN"
+    },
+    "category": "image",
+    "creators": [
+      {
+        "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+        "share": 100
+      }
+    ]
+  }
+}
