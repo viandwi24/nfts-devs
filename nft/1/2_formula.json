@@ -1,0 +1,20 @@
+{
+  "name": "Formula Rare",
+  "symbol": "SOLENF",
+  "description": "testing only",
+  "image": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/nft/1/formula_1.png",
+  "seller_fee_basis_points": 690,
+  "collection": {
+    "name": "SOLENF",
+    "family": "SOLENF"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+        "share": 100
+      }
+    ]
+  }
+}
