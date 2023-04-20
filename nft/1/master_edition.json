@@ -2,7 +2,7 @@
   "name": "Example NFT 1",
   "symbol": "SOLEN",
   "description": "for example only",
-  "image": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/nft/1/formula_1.png",
+  "image": "https://raw.githubusercontent.com/viandwi24/nftbox/main/assets/examples/images/nft_voucher.png",
   "seller_fee_basis_points": 500,
   "external_url": "",
   "background_color": "1E1E1E",
