@@ -1,0 +1,16 @@
+{
+  "name": "Capsule Collection",
+  "symbol": "CC",
+  "description": "for testing only",
+  "image": "https://api.modabuhu.com/imgs/tiny/capsule_builder-677.png",
+  "external_url": "https://nokiamon.com",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "creators": [
+      {
+        "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+        "share": 100
+      }
+    ]
+  }
+}

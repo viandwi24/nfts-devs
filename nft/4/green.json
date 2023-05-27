@@ -1,0 +1,21 @@
+{
+    "name": "Green Capsule",
+    "symbol": "CC",
+    "description": "testing only",
+    "image": "https://api.modabuhu.com/imgs/tiny/capsule_green-905.png",
+    "seller_fee_basis_points": 690,
+    "collection": {
+      "name": "CC",
+      "family": "CC"
+    },
+    "properties": {
+      "category": "image",
+      "creators": [
+        {
+          "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
