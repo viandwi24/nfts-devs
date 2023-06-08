@@ -1,0 +1,15 @@
+{
+  "name": "Pack Collection",
+  "symbol": "PC",
+  "description": "for testing only",
+  "image": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/nft/5/pack_image.png",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "creators": [
+      {
+        "address": "HXMfc1iaCxxeRt7wgwkRuZcbr4KQw79KRDJwjFU4RcWE",
+        "share": 100
+      }
+    ]
+  }
+}
