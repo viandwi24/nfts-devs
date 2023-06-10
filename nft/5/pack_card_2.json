@@ -1,0 +1,22 @@
+{
+  "name": "Pack Card 2",
+  "symbol": "PC",
+  "description": "for example only",
+  "image": "https://raw.githubusercontent.com/viandwi24/nfts-devs/main/nft/5/NFT%20PACK%20CARD%202.png",
+  "seller_fee_basis_points": 500,
+  "external_url": "",
+  "background_color": "1E1E1E",
+  "properties": {
+    "collection": {
+      "name": "PC",
+      "family": "PC"
+    },
+    "category": "image",
+    "creators": [
+      {
+        "address": "14kL18mkqJXL8sixueUM2mApbyVi15Mc4K1ww1ahEHLM",
+        "share": 100
+      }
+    ]
+  }
+}
